@@ -18,7 +18,8 @@ I asked if they had a managing software but the answer was categorical and :
 I wanted to help my city and so the idea of this project emerged!  
 
 ## What it will do?
-#### The application will allow 2 types of users to register:  
+#### The application will allow 3 types of users to register:  
+- Super User (All functionalities + config)
 - Funcionários (access to all functionalities) 
 - Usuários (Only access to search)
 
