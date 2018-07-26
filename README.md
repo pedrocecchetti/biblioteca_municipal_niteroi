@@ -17,6 +17,18 @@ I asked if they had a managing software but the answer was categorical and :
 "No we don't!".  
 I wanted to help my city and so the idea of this project emerged!  
 
+## What it will do?
+#### The application will allow 2 types of users to register:  
+- Funcionários (access to all functionalities) 
+- Usuários (Only access to search)
+
+#### It will have the basic functionalities:
+- Add Book: Add book to database(Name, Edition, Author, Genre, id)
+- Remove Book: Remove book from DB
+- Lend Book: Assign book to specific user, max: 5 books
+- Recieve Book: Unassign book from specific User
+- Search: Search around all DB
+- Add User: Add User(Nome, Sobrenome, CPF, e-mail) 
 
 ## Observations
 All this Project is a way of training my programming Skills.  
@@ -25,4 +37,3 @@ All this Project is a way of training my programming Skills.
   
 ===================================  
 
-*"So Long, and Thanks for All the Fish"*
