@@ -33,8 +33,8 @@ I wanted to help my city and so the idea of this project emerged!
 
 ## Observations
 All this Project is a way of training my programming Skills.  
-
-**Please dont make funny of me**  
   
 ===================================  
 
+
+:+:+:+:+:+:+:+:+:+:+:+:+:++:+:+::+:+:+::+:+:+:+::+:+::++:+:+:+:
