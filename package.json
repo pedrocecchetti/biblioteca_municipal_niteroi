@@ -1,0 +1,23 @@
+{
+  "name": "biblioteca_municipal_niteroi",
+  "version": "1.0.0",
+  "description": "## What is?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrocecchetti/biblioteca_municipal_niteroi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrocecchetti/biblioteca_municipal_niteroi/issues"
+  },
+  "homepage": "https://github.com/pedrocecchetti/biblioteca_municipal_niteroi#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
