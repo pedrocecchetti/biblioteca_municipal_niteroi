@@ -7,8 +7,8 @@ A web system for management of books in Biblioteca Popular Municipal Anisio Teix
 Para conhecer melhor entre no [Link da Biblioteca](http://www.educacaoniteroi.com.br/2015/05/biblioteca-popular-municipal-anisio-teixeira/).
 
 ## Stack
-~I'm still understanding which Stack am I gonna use.~
-Going to train my skills in NODE.JS
+~I'm still understanding which Stack am I gonna use.~  
+Going to train my skills in NODE.JS and in the front en
 
 ## Motivation
 One day I went to the library and asked for a book.  
